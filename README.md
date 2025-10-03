@@ -16,7 +16,7 @@ A weather module that displays current, hourly and daily forecast information us
 
 ```bash
 cd ~/MagicMirror/modules # navigate to module folder
-git clone https://github.com/MarcLandis/MMM-OpenWeatherMapForecast # clone this repository
+git clone https://github.com/Sprootch/MMM-OpenWeatherMapForecast.git # clone this repository
 cd MMM-OpenWeatherMapForecast
 npm install # install dependencies
 ```
